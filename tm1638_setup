@@ -1,0 +1,3 @@
+git clone https://github.com/johnlr/tm1638-library.git
+cd tm1638-library
+sudo python3 setup.py install
